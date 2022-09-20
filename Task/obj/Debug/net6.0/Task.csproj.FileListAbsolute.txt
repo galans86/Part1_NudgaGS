@@ -1,0 +1,15 @@
+/Users/galina/Documents/Part1_NudgaGS/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/galina/Documents/Part1_NudgaGS/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/galina/Documents/Part1_NudgaGS/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/galina/Documents/Part1_NudgaGS/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/galina/Documents/Part1_NudgaGS/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/galina/Documents/Part1_NudgaGS/Task/bin/Debug/net6.0/Task
+/Users/galina/Documents/Part1_NudgaGS/Task/bin/Debug/net6.0/Task.deps.json
+/Users/galina/Documents/Part1_NudgaGS/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/galina/Documents/Part1_NudgaGS/Task/bin/Debug/net6.0/Task.dll
+/Users/galina/Documents/Part1_NudgaGS/Task/bin/Debug/net6.0/Task.pdb
+/Users/galina/Documents/Part1_NudgaGS/Task/obj/Debug/net6.0/Task.dll
+/Users/galina/Documents/Part1_NudgaGS/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/galina/Documents/Part1_NudgaGS/Task/obj/Debug/net6.0/Task.pdb
+/Users/galina/Documents/Part1_NudgaGS/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/galina/Documents/Part1_NudgaGS/Task/obj/Debug/net6.0/ref/Task.dll
